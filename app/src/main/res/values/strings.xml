@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Just Eat</string>
+    <string name="first_button">first</string>
+    <string translatable="false" name="login">Login</string>
+    <string name="register">Sign up</string>
+    <string name="hint_email">Insert your email</string>
+    <string name="hint_password">Insert your password</string>
+    <string name="login_error">Login failed</string>
+    <string name="login_success">Logged In succesfully</string>
+    <string name="password_error">Password errata.</string>
+    <string name="email_error"> Email errata.</string>
+    <string name="hint_phoneNumber">Insert you phone number</string>
+    <string name="welcome">Welcome</string>
+
+
+
+</resources>
